@@ -1,0 +1,2 @@
+rootProject.name='Gallows'
+include ':app'
